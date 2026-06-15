@@ -34,7 +34,7 @@
 | 👤 Total Hosts     | 182,024 |
 | 🏙️ Cities Covered | 10      |
 | 🏷️ Property Types | 144     |
-| ⭐ Total Reviews    | 5.37M   |
+| ⭐ Total Reviews    | 5,373K   |
 
 ---
 
