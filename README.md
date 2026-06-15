@@ -111,52 +111,17 @@ VALUES
 
 ## 💡 Key Business Insights
 
-1. Pricing Gap -- Hotel Rooms are priced approximately **19% higher than Entire Places**, yet customer satisfaction remains competitive across accommodation types.
+1. Pricing Gap - Hotel rooms are priced ~73% higher than Entire Places, yet customer satisfaction remains competitive across room types
 
-### 🌎 Market Concentration
+2. Market Concentration - Only three cities—Paris, New York City, and Sydney—drive nearly 50% of Airbnb's total activity.
 
-Only three cities—Paris, New York City, and Sydney—drive nearly half of Airbnb's total activity.
+3.Review Behavior - Airbnb's review system is sparse; the vast majority of guests review only once, suggesting reviews carry high signal value.
 
-### ⭐ Review Behavior
+4. Seasonality - European destinations dominate mid-year travel demand, while U.S. cities peak during the holiday season.
 
-The majority of guests leave only one review, making each review highly valuable as a trust signal.
+5. Host Trust - Strong verification adoption reflects a mature and trust-focused hosting ecosystem.
 
-### 📅 Seasonality
-
-European destinations dominate mid-year travel demand, while U.S. cities peak during the holiday season.
-
-### 🛡️ Host Trust
-
-Strong verification adoption reflects a mature and trust-focused hosting ecosystem.
-
-### 🦠 COVID-19 Impact
-
-The pandemic interrupted Airbnb's growth trajectory and significantly slowed new listing creation globally.
-
----
-
-## 🚀 How to Use
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Global-Airbnb-Performance-Dashboard.git
-```
-
-### Open the Dashboard
-
-1. Open `Airbnb_Global_Performance.pbix` using Power BI Desktop.
-2. Navigate through the dashboard pages:
-
-   * Overview
-   * Ratings & Market Share
-   * Reviews & Trust
-3. Use filters and slicers to explore:
-
-   * City-level performance
-   * Property-type trends
-   * Ratings distribution
-   * Review behavior
+6. COVID-19 Impact - The pandemic interrupted Airbnb's growth trajectory and significantly slowed new listing creation globally.
 
 ---
 
@@ -182,5 +147,5 @@ If you found this project useful, feel free to:
 * 🐛 Report issues
 * 💡 Suggest improvements
 
-Let's connect and discuss data analytics, Power BI, and business intelligence projects.
+Let's connect on [Linkedin](https://www.linkedin.com/in/gajendra01/) and discuss data analytics, Power BI, and business intelligence projects.
 
