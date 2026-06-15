@@ -19,10 +19,10 @@
 
 
 ### Page 2 — Ratings & Market Share
-
+![Ratings Dashboard](Screenshot/Ratings.png)
 
 ### Page 3 — Reviews & Trust
-
+![Reviews Dashboard](Screenshot/Reviews.png)
 
 ---
 
