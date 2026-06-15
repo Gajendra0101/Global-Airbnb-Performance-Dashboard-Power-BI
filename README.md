@@ -8,14 +8,179 @@
 
 > A 3-page interactive Power BI dashboard analyzing Airbnb listing, pricing, ratings, and review data across 10 global cities — uncovering market trends, customer behavior, and host trust patterns.
 
----
-
-### 🔗 Live Dashboard
-
-[View Dashboard](https://bit.ly/4nVYtup)
 
 ---
+
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+### Page 1 — Overview
+
+
+
+### Page 2 — Ratings & Market Share
+
+
+### Page 3 — Reviews & Trust
+
+
+---
+
+## 📌 Key Metrics
+
+| Metric             | Value   |
+| ------------------ | ------- |
+| 🏘️ Total Listings | 279,712 |
+| 👤 Total Hosts     | 182,024 |
+| 🏙️ Cities Covered | 10      |
+| 🏷️ Property Types | 144     |
+| ⭐ Total Reviews    | 5.37M   |
+
+---
+
+## 📁 Dashboard Pages
+
+### 🔹 Page 1 — Overview
+
+* Tracks total listings, hosts, cities, property types, and reviews at a glance
+* Lifecycle analysis of Airbnb's growth — from Introduction → Growth → Maturity → Decline → Reinvention → COVID-19
+* 2015 marked the peak year for new listings
+* Growth was restrained from 2016–2017 due to tightening local regulations
+* Airbnb turned profitable in the second half of 2016
+* New listing growth halted in 2019 due to the COVID-19 pandemic
+* Entire Place listings dominate across all property types
+---
+
+### 🔹 Page 2 — Ratings & Market Share
+
+This page focuses on customer satisfaction, pricing, and city-level market concentration.
+
+#### Market Share Insights
+
+* Paris, New York City, and Sydney account for nearly half of all listings and 48% of total reviews.
+* Paris leads with the most listings and reviews.
+* Key pricing insights: Hotel rooms average $800 - nearly double Entire Places($673)
+
+| Room Type    | Average Price |
+| ------------ | ------------- |
+| Hotel Room   | $800          |
+| Entire Place | $673          |
+| Shared Room  | $580          |
+| Private Room | $462          |
+
+* Highest-rated cities: Mexico City (94.8) and Rio de Janeiro (94.6)
+* Lowest-rated cities: Hong Kong (89.7) and Istanbul (91.1)
+* Cleanliness and Value for Money are the lowest-rated categories globally.
+
+---
+
+### 🔹 Page 3 — Reviews & Trust
+
+* Most customers reviewed only once; 98.8% of reviewers gave 3 or fewer reviews.
+* Paris and Rome dominate review share from April to August, reflecting peak European summer travel.
+* New York saw a review spike in November and December during the holiday season.
+* Over two-thirds (66.9%) of Airbnb hosts are fully verified (identity verified + profile picture).
+* Nearly all hosts provide at least one trust signal, keeping anonymous/unverified profiles minimal.
+
+---
+
+## 🛠️ Tools & Skills Used
+
+| Category | Details                                                                                                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Tool     | Microsoft Power BI Desktop                                                                                                   |
+| Language | DAX (Data Analysis Expressions)                                                                                              |
+| Skills   | Data Visualization, Business Analysis, EDA, KPI Design, Dashboard Development, Data Storytelling |
+
+---
+
+## 📐 DAX Functions Used
+
+```DAX
+CALCULATE
+FILTER
+ALL
+ALLSELECTED
+DIVIDE
+DISTINCTCOUNT
+MAXX
+VALUES
+```
+
+---
+
+## 💡 Key Business Insights
+
+1. Pricing Gap -- Hotel Rooms are priced approximately **19% higher than Entire Places**, yet customer satisfaction remains competitive across accommodation types.
+
+### 🌎 Market Concentration
+
+Only three cities—Paris, New York City, and Sydney—drive nearly half of Airbnb's total activity.
+
+### ⭐ Review Behavior
+
+The majority of guests leave only one review, making each review highly valuable as a trust signal.
+
+### 📅 Seasonality
+
+European destinations dominate mid-year travel demand, while U.S. cities peak during the holiday season.
+
+### 🛡️ Host Trust
+
+Strong verification adoption reflects a mature and trust-focused hosting ecosystem.
+
+### 🦠 COVID-19 Impact
+
+The pandemic interrupted Airbnb's growth trajectory and significantly slowed new listing creation globally.
+
+---
+
+## 🚀 How to Use
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Global-Airbnb-Performance-Dashboard.git
+```
+
+### Open the Dashboard
+
+1. Open `Airbnb_Global_Performance.pbix` using Power BI Desktop.
+2. Navigate through the dashboard pages:
+
+   * Overview
+   * Ratings & Market Share
+   * Reviews & Trust
+3. Use filters and slicers to explore:
+
+   * City-level performance
+   * Property-type trends
+   * Ratings distribution
+   * Review behavior
+
+---
+
+## 📸 Dashboard Features
+
+✔ Interactive navigation buttons
+✔ Dynamic KPI cards
+✔ Custom DAX calculations
+✔ Market share analysis
+✔ Review distribution insights
+✔ Seasonal trend analysis
+✔ Host trust and verification metrics
+✔ Responsive visual storytelling
+
+---
+
+## 📬 Connect
+
+If you found this project useful, feel free to:
+
+* ⭐ Star this repository
+* 🍴 Fork the project
+* 🐛 Report issues
+* 💡 Suggest improvements
+
+Let's connect and discuss data analytics, Power BI, and business intelligence projects.
+
