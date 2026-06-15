@@ -15,7 +15,7 @@
 ## 📊 Dashboard Preview
 
 ### Page 1 — Overview
-![Overview Dashboard](screenshots/Overview.png)
+(screenshots/Overview.png)
 
 
 ### Page 2 — Ratings & Market Share
