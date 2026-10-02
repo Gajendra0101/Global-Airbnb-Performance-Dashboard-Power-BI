@@ -59,7 +59,7 @@ This page focuses on customer satisfaction, pricing, and city-level market conce
 
 * Paris, New York City, and Sydney account for nearly half of all listings and 48% of total reviews.
 * Paris leads with the most listings and reviews.
-* Key pricing insights: Hotel rooms average $800 - nearly double Entire Places($673)
+* Key pricing insights: Hotel rooms average $800 -  Entire Places average ($673)
 
 | Room Type    | Average Price |
 | ------------ | ------------- |
@@ -88,7 +88,7 @@ This page focuses on customer satisfaction, pricing, and city-level market conce
 
 | Category | Details                                                                                                                      |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Tool     | Microsoft Power BI Desktop                                                                                                   |
+| Tool     | Microsoft Power BI Desktop, Excel( Data Cleaning)                                                                                                   |
 | Language | DAX (Data Analysis Expressions)                                                                                              |
 | Skills   | Data Visualization, Business Analysis, EDA, KPI Design, Dashboard Development, Data Storytelling |
 
@@ -115,7 +115,7 @@ VALUES
 
 2. Market Concentration - Only three cities—Paris, New York City, and Sydney—drive nearly 50% of Airbnb's total activity.
 
-3.Review Behavior - Airbnb's review system is sparse; the vast majority of guests review only once, suggesting reviews carry high signal value.
+3. Review Behavior - Airbnb's review system is sparse; the vast majority of guests review only once, suggesting reviews carry high signal value.
 
 4. Seasonality - European destinations dominate mid-year travel demand, while U.S. cities peak during the holiday season.
 
