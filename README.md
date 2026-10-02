@@ -111,7 +111,7 @@ VALUES
 
 ## 💡 Key Business Insights
 
-1. Pricing Gap - Hotel rooms are priced ~73% higher than Entire Places, yet customer satisfaction remains competitive across room types
+1. Pricing Gap - Hotel rooms are priced ~19% higher than Entire Places, yet customer satisfaction remains competitive across room types
 
 2. Market Concentration - Only three cities—Paris, New York City, and Sydney—drive nearly 50% of Airbnb's total activity.
 
